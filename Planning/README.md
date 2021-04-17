@@ -2,7 +2,7 @@
 With Fitlytics you can plan ahead what you're going to do each day of the week.<br />
 To simplify planning, but also make it as specified as possible, we offer several abilities.
 
-## Speicifc Exercise
+## Specific Exercise
 For each day, you can always add exercises individually. Each exercise has its own configurations which you can edit.
 
 ## Routines
