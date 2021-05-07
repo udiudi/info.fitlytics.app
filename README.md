@@ -1,6 +1,9 @@
 # Welcome
 
 ## What's New
+### May 7th, 2021
+- You can see an indicator of your relevant goals in the calendar. By hovering over it you can see the status of the goal, and it's color coded based on progress.
+![](/assets/images/goals_dashboard.jpg) ![](/assets/images/green_goals.jpg)
 ### April 17th, 2021
 - You can update your password from Profile page. Click on your username at the top right screen to see the form.
 
