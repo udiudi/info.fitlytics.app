@@ -1,6 +1,10 @@
 # Welcome
 
 ## What's New
+
+### Jun 4th, 2021
+- The layout of workout submission has been modified and improved. To speed up the workout entry process, we added bulk actions for duplicate and delete, so you can mark multiple sets and rests and duplicate them. A revamp of this process is still WIP - but it'll be a great improvement.
+
 ### May 17th, 2021
 - Added: In frequency page you can now filter exercise by goals (in addition to routines). So now, by choosing a goal (either for specific exercise or category) it'll automatically select the relevant exercises for you.
 ![](/assets/images/frequency_by_goals.png)
